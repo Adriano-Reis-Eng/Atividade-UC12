@@ -1,0 +1,14 @@
+H:\Estudos\SENAI-FULLSTACK\UC12\Senai\Atividade-UC2\obj\Debug\net9.0\Atividade-UC2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Estudos\SENAI-FULLSTACK\UC12\Senai\Atividade-UC2\obj\Debug\net9.0\Atividade-UC2.AssemblyInfoInputs.cache
+H:\Estudos\SENAI-FULLSTACK\UC12\Senai\Atividade-UC2\obj\Debug\net9.0\Atividade-UC2.AssemblyInfo.cs
+H:\Estudos\SENAI-FULLSTACK\UC12\Senai\Atividade-UC2\obj\Debug\net9.0\Atividade-UC2.csproj.CoreCompileInputs.cache
+H:\Estudos\SENAI-FULLSTACK\UC12\Senai\Atividade-UC2\bin\Debug\net9.0\Atividade-UC2.exe
+H:\Estudos\SENAI-FULLSTACK\UC12\Senai\Atividade-UC2\bin\Debug\net9.0\Atividade-UC2.deps.json
+H:\Estudos\SENAI-FULLSTACK\UC12\Senai\Atividade-UC2\bin\Debug\net9.0\Atividade-UC2.runtimeconfig.json
+H:\Estudos\SENAI-FULLSTACK\UC12\Senai\Atividade-UC2\bin\Debug\net9.0\Atividade-UC2.dll
+H:\Estudos\SENAI-FULLSTACK\UC12\Senai\Atividade-UC2\bin\Debug\net9.0\Atividade-UC2.pdb
+H:\Estudos\SENAI-FULLSTACK\UC12\Senai\Atividade-UC2\obj\Debug\net9.0\Atividade-UC2.dll
+H:\Estudos\SENAI-FULLSTACK\UC12\Senai\Atividade-UC2\obj\Debug\net9.0\refint\Atividade-UC2.dll
+H:\Estudos\SENAI-FULLSTACK\UC12\Senai\Atividade-UC2\obj\Debug\net9.0\Atividade-UC2.pdb
+H:\Estudos\SENAI-FULLSTACK\UC12\Senai\Atividade-UC2\obj\Debug\net9.0\Atividade-UC2.genruntimeconfig.cache
+H:\Estudos\SENAI-FULLSTACK\UC12\Senai\Atividade-UC2\obj\Debug\net9.0\ref\Atividade-UC2.dll
